@@ -17,7 +17,7 @@ jira-flow/jira-automation-flow teams, scrum, git flow,
 release and engineering culture
 ```
 
-[My CV](FILE_NAME.pdf)
+[My CV](CV.pdf)
 
 ## My top technologies:
 ### Frontend
