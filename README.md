@@ -2,8 +2,6 @@
 ## My name is Arkadii, but you can call me Adi.
 
 ```typescript
-var Jira, git, scrum, B2B, jira, Next, Typescript, React, Videoplayers, FE, AQA, js, flow, automation;
-
 I am a software engineer specializing in the field of 
 React/Typescript/Next.js/FE-AQA/Videoplayers, 
 with a product vision I have worked in completely 
@@ -19,7 +17,7 @@ jira-flow/jira-automation-flow teams, scrum, git flow,
 release and engineering culture
 ```
 
-[My CV](FILE_NAME.pdf)
+[My CV](CV.pdf)
 
 ## My top technologies:
 ### Frontend
