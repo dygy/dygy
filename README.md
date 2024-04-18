@@ -17,55 +17,25 @@ jira-flow/jira-automation-flow teams, scrum, git flow,
 release and engineering culture
 ```
 
-[My CV](CV.pdf)
-
-## My top technologies:
-### Frontend
+## My technologies:
+* TypeScript
 * React
 * React Query / SWR / MobX
 * Next.js
-* TypeScript
 * Jest / React Testing Library / Playwright
 * React Native
-* Vite
-* Webpack
-### Backend
 * nest.js (typescript)
 * ktor (kotlin)
 * golang
 * MongoDB
-* DynamoDB
 * PostgreSQL
-* Redis
-### Games
-* Unity3D
-* Pixl.js
-* Three.js
-### ML/AI
 * tensorflow.js
-### Video Streaming
 * video.js
-* wowza
-* oven media engine
-* webRTC
-* LL-HLS
-### DevOps
 * Jira (JQL, bulk changes, administrating kanban and scrum)
-* GitLab
-* GitHub
-* Slack
-* AWS
-* Heroku
-* Vercel
-* Sentry
+* GitLab (pipelines, jobs, flow)
+* GitHub (actions, projects)
 * Docker
-### Other non-top techs:
 * Vue.js
-* Remix.js
-* C#
-* Haskell
-* Java
-* Express.js
 
 ![Dygy github stats](https://github-readme-stats.vercel.app/api?username=dygy&show_icons=true)
 
