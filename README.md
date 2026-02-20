@@ -2,19 +2,11 @@
 ## My name is Arkadii, but you can call me Adi.
 
 ```typescript
-I am a software engineer specializing in the field of 
-React/Typescript/Next.js/FE-AQA/Videoplayers, 
-with a product vision I have worked in completely 
-different areas (mainly B2B), understanding and 
-interested in business priorities and user experience, 
-and attentive to documentation for integrations, testing, 
-onboarding (and new employees to the project and users to the product) 
-and deployment, reverse studying Jira, git and other sources of project 
-history to understand the intricacies and processes, not afraid to take 
-responsibility for areas unknown to me and to integrate into them.
-I have experience in project support and migration, formation of 
-jira-flow/jira-automation-flow teams, scrum, git flow, 
-release and engineering culture
+I’m a software engineer specializing in React, TypeScript, Hono, Golang, Next.js, Astro, with experience in frontend test automation (FE-AQA). I bring strong product thinking from working across diverse domains (primarily B2B), with a clear focus on business priorities, user experience, and maintainable engineering.
+
+I’m attentive to documentation for integrations, testing, onboarding (both new team members and users onboardings), and some DevOPS sections. I quickly ramp up on unfamiliar systems by studying Jira, Git history, and other project artifacts to understand architecture, context, and team processes. I’m not afraid to take ownership of areas outside my initial expertise and to integrate deeply into them.
+
+I also have experience with project support and migrations, establishing Jira workflows and automation, and working in Scrum environments. I’m comfortable with Git flow, release processes, and building a strong engineering culture.
 ```
 
 ## My technologies:
@@ -22,20 +14,22 @@ release and engineering culture
 * React
 * React Query / SWR / MobX
 * Next.js
+* Astro
 * Jest / React Testing Library / Playwright
 * React Native
-* nest.js (typescript)
-* ktor (kotlin)
 * golang
+* ktor (kotlin)
 * MongoDB
 * PostgreSQL
 * tensorflow.js
-* video.js
 * Jira (JQL, bulk changes, administrating kanban and scrum)
 * GitLab (pipelines, jobs, flow)
 * GitHub (actions, projects)
+* AWS (terraform, Fargate, Lyamdas, Dynamo, EC2, S3, Cognito, Amplify, Cloudfront)
 * Docker
-* Vue.js
+* Supabase
+* Heroku
+* Vercel
 
 ![Dygy github stats](https://github-readme-stats.vercel.app/api?username=dygy&show_icons=true)
 
